@@ -1,0 +1,26 @@
+[
+  {
+    "id": "2026-07-01-001",
+    "platform": "instagram",
+    "media_type": "IMAGE",
+    "media_path": "media/ejemplo.jpg",
+    "caption": "¡Texto de tu publicación va aquí! #hashtag",
+    "scheduled_datetime": "2026-07-01T15:00:00Z",
+    "status": "scheduled",
+    "posted_at": null,
+    "platform_post_id": null,
+    "error": null
+  },
+  {
+    "id": "2026-07-01-002",
+    "platform": "facebook",
+    "media_type": "IMAGE",
+    "media_path": "media/ejemplo.jpg",
+    "caption": "Texto de tu publicación en Facebook.",
+    "scheduled_datetime": "2026-07-01T18:30:00Z",
+    "status": "scheduled",
+    "posted_at": null,
+    "platform_post_id": null,
+    "error": null
+  }
+]
