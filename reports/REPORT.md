@@ -1,7 +1,11 @@
 # Reporte de métricas
 
-_Todavía no se ha ejecutado ninguna recolección de métricas._
+_Actualizado: 2026-07-01 (UTC)_
 
-Este archivo se actualiza automáticamente todos los días una vez que el flujo
-`daily_metrics.yml` corra por primera vez (o si lo ejecutas manualmente desde la pestaña
-Actions de GitHub).
+## Resumen de cuentas (hoy)
+
+_Aún no hay datos de cuenta para hoy._
+
+## Últimos posts publicados
+
+_Todavía no hay publicaciones registradas._
