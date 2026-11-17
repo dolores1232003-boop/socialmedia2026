@@ -1,6 +1,6 @@
 # Reporte de métricas
 
-_Actualizado: 2026-11-16 (UTC)_
+_Actualizado: 2026-11-17 (UTC)_
 
 ## Resumen de cuentas (hoy)
 
